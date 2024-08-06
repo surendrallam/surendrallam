@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **surendrallam@hotmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AnaKBESnsqaVgtpDh8N87m14OcO4yQ?e=Kq8VKo](https://1drv.ms/b/s!AnaKBESnsqaVgtpDh8N87m14OcO4yQ?e=Kq8VKo)
+- 📄 [Download my Resume](https://1drv.ms/b/s!AnaKBESnsqaVgtpDh8N87m14OcO4yQ?e=Kq8VKo)
 
 - ⚡ Fun fact **As you treat me, so I’ll treat you**
 
