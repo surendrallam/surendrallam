@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/allamsurendra" target="blank"><img src="https://img.shields.io/twitter/follow/allamsurendra?logo=twitter&style=for-the-badge" alt="allamsurendra" /></a> </p>
 
-- 🔭 I’m currently working on [Exaleap Semiconductor Pvt Ltd](https://www.exaleap.ai/)
+- 🔭 I’m currently working on [Tech Mahindra Pvt Ltd](https://www.techmahindra.com/)
 
 - 👨‍💻 All of my projects are available at [https://surendrallam.github.io/](https://surendrallam.github.io/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **surendrallam@hotmail.com**
 
-- 📄 [Download my Resume](https://1drv.ms/b/s!AnaKBESnsqaVgtpDh8N87m14OcO4yQ?e=Kq8VKo)
+- 📄 [Find my profile](https://drive.google.com/file/d/1Dw3QgckGQcdiLu7Lfrm7eswo0v--714i/view?usp=sharing)
 
 - ⚡ Fun fact **As you treat me, so I’ll treat you**
 
