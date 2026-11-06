@@ -12,6 +12,13 @@ A Claude agent that answers business questions with read-only SQL, applies gover
 | Claude Sonnet 5.5 | 100% | $8.34 |
 | Claude Opus 5.5 | 100% | $19.70 |
 
+### More benchmarked projects
+
+| Project | What it shows |
+|---|---|
+| [grounded-rag-assistant](https://github.com/surendrallam/grounded-rag-assistant) | A support assistant that answers only from your documents and cites every answer. 64-question benchmark across Claude models: Haiku with Sonnet re-asking failed checks passed 192 of 192 at $0.74 per 1,000 questions. |
+| [refund-triage-agent](https://github.com/surendrallam/refund-triage-agent) | An agent for refund emails: Claude reads and writes, code decides eligibility, amounts and limits. 30 scenarios x 3 runs per model, audited three times: Haiku 90 of 90 at $0.60 per 1,000 tickets, Sonnet 90 of 90, Opus 89 of 90, and 0 rule violations. |
+
 ### What I build
 
 - AI features and tool-calling agents in existing products
