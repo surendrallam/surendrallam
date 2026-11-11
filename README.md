@@ -1,6 +1,8 @@
 # Surendra Allam
 
-Senior AI engineer in Bengaluru. I build AI agents and LLM features into products that already have users, then measure them: accuracy, cost per answer, latency.
+Senior AI Engineer in Bengaluru. I build AI agents and LLM features into products that already have users, then measure them: accuracy, cost per answer, latency.
+
+**Website:** [surendrallam.com](https://surendrallam.com)
 
 ### Featured: [ask-your-data-agent](https://github.com/surendrallam/ask-your-data-agent)
 
@@ -32,3 +34,7 @@ A Claude agent that answers business questions with read-only SQL, applies gover
 - A plain-English data assistant live in three production products (Amazon Bedrock, Neo4j)
 - Repeat-query LLM cost cut by about 90% on a production assistant
 - Feature delivery from weeks to days after moving a team to AI-first development with Claude Code
+
+### Work with me
+
+Services, case studies and a 20-minute call booking page: **[surendrallam.com](https://surendrallam.com)**
